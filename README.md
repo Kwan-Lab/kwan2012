@@ -2,7 +2,7 @@ Data associated with Figure 1 in the paper, Kwan AC and Dan Y, Dissection of cor
 
 ———
 
-This data set contains in vivo calcium imaging data from 34 cortical neurons, including 16 pyramidal neurons, 10 PV-expressing neurons, and 8 SST-expressing interneurons. There is simultaneous spiking data from loose-patch recording.
+This data set contains in vivo calcium imaging data from 34 cortical neurons, including 16 pyramidal neurons, 10 PV-expressing neurons, and 8 SST-expressing interneurons. There is spiking data simultaneously recorded from the same cell with a glass pipette in the loose-patch configuration.
 
 ———
 
